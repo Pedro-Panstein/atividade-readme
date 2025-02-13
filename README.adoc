@@ -4,7 +4,7 @@
 :toclevels: 2
 
 
-== Sobre o Projeto
+== 🎯 Sobre o Projeto
 O **Sistema de Gerenciamento de Biblioteca** foi desenvolvido para facilitar o
 processo de empréstimo, devolução e gerenciamento de livros em uma
 biblioteca. Através da aplicação, é possível gerenciar empréstimos de livros,
@@ -12,7 +12,7 @@ disponibilidade de exemplares, cadastro de usuários e gerar relatórios de
 atividades. O sistema visa melhorar a experiência do usuário e otimizar a
 administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 
-== Recursos
+== 🚀 Recursos
 - Cadastro e gerenciamento de livros com informações detalhadas
 (título, autor, ISBN, etc.).
 - Criação e modificação de empréstimos de livros, com opções de data de empréstimo e devolução.
@@ -21,7 +21,7 @@ administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 - Notificação de usuários sobre empréstimos e devoluções.
 - Sistema de login e autenticação para administradores e usuários.
 
-== Tecnologias Utilizadas
+== 📦 Tecnologias Utilizadas
 ===== Frontend 
         - **Angular**: Framework utilizado para o desenvolvimento da interface de usuário, permitindo uma aplicação interativa e responsiva.
 
@@ -44,7 +44,7 @@ no processo de autenticação e autorização de usuários.
 
 image::jwt-logo.png[Logo jwt, 200]
 
-== Como Executar
+== 🎮 Como Executar
 ===== Clone o Repositório
 Clone o repositório para o seu ambiente local com o comando:
 
@@ -103,7 +103,7 @@ ng serve
 ===== Acesse a Aplicação
 Abra o navegador e acesse a aplicação na URL:** http://localhost:4200.**
 
-== Documentação da API
+== 📚 Documentação da API
 A API do Sistema de Gerenciamento de Biblioteca foi documentada
 utilizando **Swagger**, permitindo uma visualização interativa e detalhada de
 todos os endpoints disponíveis. Abaixo estão alguns dos endpoints principais:
@@ -123,7 +123,7 @@ Para acessar a documentação completa da API no Swagger, inicie o servidor
 backend e acesse:
 **http://localhost:8080/swagger-ui.html**
 
-== Contribuindo
+== 🤝 Contribuindo
 - Faça um fork do repositório.
 - Crie uma nova branch:
 
@@ -146,11 +146,11 @@ git push origin feature-nome-da-feature
 
 - Abra um pull request descrevendo as mudanças feitas.
 
-== Licença
+== 📄 Licença
 Este projeto está licenciado sob a **Licença MIT** - veja o arquivo LICENSE para
 mais detalhes.
 
-== Contato
+== ✉️ Contato
 Se você tiver alguma dúvida ou sugestão, entre em contato com a **equipe de desenvolvimento:**
 
 - **Email: contato@biblioteca.com**
