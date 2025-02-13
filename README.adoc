@@ -21,12 +21,11 @@ administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 - Notificação de usuários sobre empréstimos e devoluções.
 - Sistema de login e autenticação para administradores e usuários.
 
-
 == Tecnologias Utilizadas
 ===== Frontend 
         - o Angular: Framework utilizado para o desenvolvimento da interface de usuário, permitindo uma aplicação interativa e responsiva.
-        
-image::letra-a.png[Imagem angular, 50]
+
+image::angular.png[Imagem angular, 200]
 
 ===== Backend
     - o Spring Boot (Java): Framework utilizado para o desenvolvimento da API, que gerencia os empréstimos, os livros e os usuários.
